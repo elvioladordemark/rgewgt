@@ -1,7 +1,289 @@
 [
     {
-        "name": "🏆MUNDIAL",
+        "name": "🏆MUNDIAL 2026",
         "samples": [
+            {
+                "name": "VIX MUNDIAL 590",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/1JQfXv7H/Picsart-26-06-10-22-34-47-607.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=75074a0cbd83f5b72fb3e5c1495252a9&key=a4a0df04b2d28f2160cead2ecdeb7203"
+            },
+            {
+                "name": "VIX MUNDIAL 591",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/VpqqynNP/Picsart-26-06-10-22-34-20-290.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=11f486ca7df20d63ff3aaecf4d87d132&key=9271506950313bab2ced7522891aa022"
+            },
+            {
+                "name": "VIX MUNDIAL 592",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/DDCpC84T/Picsart-26-06-10-22-54-30-928.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=784d6b54efe3a13dc1fbcda17e5804db&key=b4f4814e01943f910b62e6bfd0c23728"
+            },
+            {
+                "name": "VIX MUNDIAL 593",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xtwmd1xT/Picsart-26-06-10-22-58-19-559.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=7ee1a23e40b456ebfdaa40c51a24b857&key=45ffaff5f3221a356c82c3d39bb327ac"
+            },
+            {
+                "name": "VIX MUNDIAL 594",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-94-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xNg3DgC/Picsart-26-06-10-23-02-36-613.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=8b0dd1c5b5812460479ac94af4ff061d&key=fc5a0c78cf2ad8bb3636e01150553427"
+            },
+            {
+                "name": "VIX MUNDIAL 595",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/v4vD3P3w/Picsart-26-06-10-23-09-10-236.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=9696c2f12e487aafe1dc96d16d0db658&key=159fd5dc3b0d9e0d75f856e95e225801"
+            },
+            {
+                "name": "CAZÉ TV",
+                "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg"
+            },
+            {
+                "name": "CAZÉ TV 4K",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/MkQLZw3G/Picsart-26-06-10-23-19-14-029.jpg",
+                "drm_license_uri": "https://results.femon.net/?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
+            },
+            {
+                "name": "Sportv Mundial FHD",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/s9v0mW7j/Picsart-26-06-09-23-00-55-307.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
+                "headers": {
+                    "referer": "https://www.primevideo.com/",
+                    "user_agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+                }
+            },
+            {
+                "name": "VIX TUDN MUNDIAL",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/zVYvXY2H/Picsart-26-06-11-15-18-55-176.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=1710ac2bbfcd3032d0f6533850968f47&key=d2548dacc8efcd1cd0af0373060c82dc"
+            },
+            {
+                "name": "Dsport 1",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a27a0cd298a45.66546362.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
+            },
+            {
+                "name": "DSPORTS 1 opc 2",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a27a0cd298a45.66546362.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
+                "headers": {
+                    "origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "DSPORTS +",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/bMjfdskt/Picsart-26-06-15-14-38-43-141.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=da81f7165f73c884fc1dcf0bf3bd4bb5&key=3f8d519997196db76631dd4b427f53f6"
+            },
+            {
+                "name": "TELEMUNDO MUNDIAL",
+                "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Z1xqKrcH/052926-wc-logo.webp",
+                "drm_license_uri": "https://results.femon.net/?keyid=1efe4add8fdf327c5f8d2a1c195e5c71&key=4f50e6f011e60ca01ee561f27187e78f"
+            },
+            {
+                "name": "TELEFE MUNDIAL",
+                "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/trd0wgrxamtjaw0z00000004omejlxdx/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw"
+            },
+            {
+                "name": "FOX SPORT 4K MUNDIAL",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+                "headers": {
+                    "referer": "https://www.primevideo.com/",
+                    "user_agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+                }
+            },
+            {
+                "name": "GEN",
+                "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a26f4478855a0.67866492.png",
+                "drm_license_uri": "https://tonykshop.lat/license.php/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "CAMARA JUGADOR",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a28467e5acbd2.84801314.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=789387a3f449419d9b6e2f6c910e0861&key=a78b627380a43ef610485082ee91277a",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "CAMARA DT",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a28473207e693.35309536.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=97a46697db7524c76d47de9bed5b7f8a&key=8a0a08da423fca679702b4632a90f333",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "MULTICAMARA",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "EL TRECE PY",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a279e8eac9ed6.61890037.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "POPU TV",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a279f3633e242.21426386.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "UNICANAL",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a279fa3325f08.32689900.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "TELEFE",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a27a1cdb548f7.46434435.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "TYC SPORTS",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a2817125cf9a5.48197055.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "TV PUBLICA",
+                "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTMxMjc1Iiwic2lwIjoiNDUuMTc4LjIuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL1BsYWNhX0hCTy92ZXJpbWF0cml4X3JvdGF0aW5nLyIsInNlc3Npb25fY2RuX2lkIjoiM2VhN2JhMTZjODRmMDRjZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyNzEiLCJzb3VyY2VzIjpbNzMsODUsMTQ0LDIxMCw4Niw4OF19.FGKQB-EEUaseLTSkFBCC6eHgUb7dCqfQgrf0SgnwI2BL9cxwyZ54ZyyZsUajGgb_FJjpZFcG1BI3Y0vaQJDopA==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/tv/banners/6a27a22d1539b9.35054489.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 FlowTVClient/4.32.4"
+                }
+            },
+            {
+                "name": "FOX ONE MUNDIAL 4K",
+                "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xcJ5b5P/fox-world-cup-2026.jpg",
+                "drm_license_uri": "https://results.femon.net/?keyid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7"
+            },
+            {
+                "name": "LA 1 MUNDIAL",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/DHSH2L0y/Logo-La-1-UHD-2024.jpg",
+                "drm_license_uri": "https://results.femon.net/?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
+            },
+            {
+                "name": "MUNDIAL 4K",
+                "url": "https://drm.91porn.stream/play/rIsd_Oa4rBVvrGjTgszWow/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png"
+            },
+            {
+                "name": "FS1 4K MUNDIAL(Solo para tv compatible con 4k HDR)",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1n1mskjnsk/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/YFQsgMyn/1781635407452.png",
+                "drm_license_uri": "https://results.femon.net/?keyid=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
+                "headers": {
+                    "referer:": "\"https://www.primevideo.com/\"",
+                    "user_agent:": "\"AivAndroidPlayer/1.0 (AndroidDevice)\""
+                }
+            },
+            {
+                "name": "M6 MUNDIAL",
+                "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/JRdjd62q/img-7510-1200x675.jpg",
+                "drm_license_uri": "https://results.femon.net/?keyid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3"
+            },
             {
                 "name": "OPCION 1",
                 "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(wmEH20MKUvlHqa3YGdGoA-3QqICi4KHcr5-VAeRk25k-91VnCq8Ic8r2L6dG2omuTD9pfNr-0qeqibQtoKIkn91txhhOGAUnuAh6CVAyjyoSH-gjFo-3eBCIJ92aEzi7)/cloud/3/x9ksaba/s/live-720.m3u8",
