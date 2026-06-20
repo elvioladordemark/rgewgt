@@ -261,7 +261,7 @@
             },
             {
                 "name": "TV PUBLICA",
-                "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://app.femon.net/tv/banners/6a27a22d1539b9.35054489.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
