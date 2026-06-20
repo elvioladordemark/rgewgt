@@ -14,6 +14,17 @@
                 }
             },
             {
+                "name": "OPCION 2",
+                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0JfyrqHvmLJDCkKmfRNgTyvUIchtYpJOb7tFfT7FuVDPs7dyyU8BGMZXseUPR7O4EfYCba3UAhIP5b4i0vyJj_zPIbYUHTriNkAPTTyrmrrKVJa9o_q8h1Qx9PAA5BsW)/cloud/3/x9ko9z8/s/live-720.m3u8",
+                "type": "HLS",
+                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
+                "headers": {
+                    "Referer": "https://gabito.xyz/",
+                    "Origin": "https://gabito.xyz",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "DSPORTS 1",
                 "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
                 "type": "CLEARKEY",
@@ -297,17 +308,7 @@
                 "drm_license_uri": "https://results.femon.net/?keyid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3"
             },
             
-            {
-                "name": "OPCION 2",
-                "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(FXvY_J1oAOt7TwtdNJsEll8rK6p36cy-ZiGSYrKaFA-lAnzxDGRn90P11klnN_87j7xMrzXawhlamPqr_HeJ1NH203uyd7Gy14d6ueytuayvKovQ-4dsfjEhfxk-Taha)/cloud/3/x9ko9z8/s/live-720.m3u8",
-                "type": "HLS",
-                "icono": "https://www.segurilatam.com/wp-content/uploads/sites/5/2025/08/mundial-2026-cartel-fifa-900x600.jpg",
-                "headers": {
-                    "Referer": "https://gabito.xyz/",
-                    "Origin": "https://gabito.xyz",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-                }
-            },
+            
             {
                 "name": "OPCION 3",
                 "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
