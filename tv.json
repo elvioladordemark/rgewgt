@@ -261,7 +261,7 @@
             },
             {
                 "name": "TV PUBLICA",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+                "url": "http://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://app.femon.net/tv/banners/6a27a22d1539b9.35054489.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
