@@ -189,7 +189,7 @@
             },
             {
                 "name": "MULTICAMARA",
-                "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
+                "url": "http://edge02-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMDY1OTMzIiwic2lwIjoiMTAuMTMyLjIyMi4yMjQiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWMxMTRhNmNjMDYzYzRkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.HU0O-eCnKvTEo-_A3K9j67svx0Cjy7EVSz1CV4R19SwNHx3mv-wnJIQyyQSFTwBjAuzakSLR7q_8mFCcwwKDBQ==/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03",
@@ -399,7 +399,7 @@
             },
             {
                 "name": "PY | SNT",
-                "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+                "url": "http://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/snt.png",
@@ -411,7 +411,7 @@
             },
             {
                 "name": "PY | SNT    opcion 2",
-                "url": "https://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+                "url": "http://edge-live34-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTg4ODMyIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9FU1BOMl9QWS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyMmMzODY1ZjA5MjBkMDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q7-SNlmRLb_Hu67YsAgFfW-jFMP1IqY1lj9SrbLA0067CUuJ0GA-qP8qbYCRJ7DeWK3LZAgcWV3v1TpjUoxI8Q==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
                 "icono": "https://iptvstudio.pages.dev/logos/paraguay/snt.png",
