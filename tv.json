@@ -246,7 +246,7 @@
             },
             {
                 "name": "TYC SPORTS",
-                "url": "https://jsuhyhgg.evolucionhidraulica.com.ar/stream.php?path=c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                "url": "http://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://app.femon.net/tv/banners/6a2817125cf9a5.48197055.png",
                 "drm_license_uri": "https://results.femon.net/?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
